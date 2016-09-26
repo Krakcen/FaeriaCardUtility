@@ -18,3 +18,4 @@ Frameworks
 
 - **[Bootstrap](http://getbootstrap.com/)**
 - **[Jquery](https://jquery.com/)**
+- **[Faeria Cards](https://github.com/abrakam/Faeria_Cards)**
